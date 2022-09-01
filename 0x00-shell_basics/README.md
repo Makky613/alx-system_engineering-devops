@@ -1,1 +1,1 @@
-Change working directory to previous one
+Switch current user to user betty
