@@ -1,1 +1,1 @@
-Create directory in /tmp
+create directory
