@@ -1,1 +1,1 @@
-Display content of current directory including hidden files[D[D[D[D[D[D[D[D[D
+Display current directory contents including hidden files
