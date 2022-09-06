@@ -1,1 +1,1 @@
-Create scripts that prints with standard output
+Create script that prints with standard output
