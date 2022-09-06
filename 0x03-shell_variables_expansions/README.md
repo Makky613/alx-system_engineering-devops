@@ -1,1 +1,1 @@
-Create script that prints hello my user
+Create script that lists environmental variables
