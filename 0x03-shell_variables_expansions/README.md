@@ -1,1 +1,1 @@
-Create script that lists environmental variables
+Create script that prints all possible combinations of letters except oo
