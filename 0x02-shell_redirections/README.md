@@ -1,1 +1,1 @@
-Create script that prints followed by a new line with standard output
+Write shell scirpt that creates file exactly named ending by a new line
