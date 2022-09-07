@@ -1,1 +1,1 @@
-Create script that lists local variables and environment variables, and functions
+Create script that prints hello user
